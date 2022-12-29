@@ -1,3 +1,4 @@
+<html>
 # 💫 About Me:
 <p align="left">
   <img
@@ -22,3 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=astrodeveloper1010&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </html>
