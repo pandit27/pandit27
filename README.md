@@ -1,4 +1,5 @@
 <html>
+  [![](https://visitcount.itsvg.in/api?id=astrodeveloper1010&icon=2&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 <p align="left">
   <img
@@ -6,7 +7,7 @@
     alt="astrodeveloper1010"
   />
 </p>
-  [![](https://visitcount.itsvg.in/api?id=astrodeveloper1010&icon=2&color=0)](https://visitcount.itsvg.in)
+  
 🔭 I’m currently working on Web 3.0 - 
   <br>
   🌱 I’m currently learning Node Js - 
