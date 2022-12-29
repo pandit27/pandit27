@@ -1,4 +1,10 @@
 # 💫 About Me:
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=astrodeveloper1010&label=Profile%20views&color=0e75b6&style=flat"
+    alt="astrodeveloper1010"
+  />
+</p>
 🔭 I’m currently working on Web 3.0 - <br>🌱 I’m currently learning Node Js - <br>👯 I’m looking to collaborate on Web Projects - <br>🤝 I’m looking for help with Blockchain Technology - <br>💬 Ask me about Web Development, C++, Data Structures - <br>📫 How to reach me priyanshujha131@gmail.com
 
 
