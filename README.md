@@ -18,6 +18,8 @@
   <br>
   📫 How to reach me priyanshujha131@gmail.com
   <br>
+  💻 My Hackerrank I'd => https://www.hackerrank.com/priyanshujha131
+  <br>
   💻 My Leetcode I'd => https://leetcode.com/AstroDeveloper1010/
 
 ## 🌐 Socials:
