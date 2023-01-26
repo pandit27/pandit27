@@ -6,9 +6,9 @@
   />
 </p>
   
-  🌱 I’m currently learning Web 3.0 - 
+  🌱 I’m currently learning Full Stack Developement.
   <br>
-  💬 Ask me about Web Development, C++, Data Structures - 
+  💬 Ask me about Web Development, C++, Data Structures and Algorithms.
   <br>
   📫 How to reach me priyanshujha131@gmail.com
   <br>
