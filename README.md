@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="30px" height="30px"> 
   
   🌱 I’m currently learning Full Stack Developement.
   <br>
