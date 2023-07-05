@@ -1,4 +1,5 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=astrodeveloper1010&label=Profile%20views&color=0e75b6&style=flat"
