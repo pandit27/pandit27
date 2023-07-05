@@ -8,11 +8,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
 </p>
 
 
-##  <img src="https://media.giphy.com/media/TcnSWYZvafyhEACBO/giphy.gif" width="30px" height="30px"> A little more about me...  
+## A little more about me...  
   
 ```javascript
 const AstroDeveloper = {
