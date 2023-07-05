@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
 
 
@@ -47,8 +47,8 @@ const AstroDeveloper = {
 
 ```javascript
 // Which came first: love or money?
-console.log(['💙', '💵'].sort())
 
+console.log(['💙', '💵'].sort())
 >>> ['💵', '💙']
 ```
 
