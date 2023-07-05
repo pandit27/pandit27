@@ -7,9 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 </p>
 
 
