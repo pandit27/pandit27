@@ -10,13 +10,20 @@
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif">
 </p>
+
+##  <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" width="30px" height="30px"> A little more about me...  
   
-  🌱 I’m currently learning Full Stack Developement.
-  <br>
-  💬 Ask me about Web Development, C++, Data Structures and Algorithms.
-  <br>
-  📫 How to reach me priyanshujha131@gmail.com
-  <br>
+```javascript
+const Ankita = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+
 
 ## 🌐 Socials:
 <!-- [![Leetcode]<img id="image" data-size="512" class="img-responsive" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" title="Leetcode, button Icon Free" alt="leetcode, button Icon">(https://leetcode.com/AstroDeveloper1010/) -->
