@@ -1,11 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=astrodeveloper1010&label=Profile%20views&color=0e75b6&style=flat"
     alt="astrodeveloper1010"
   />
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+front+end+developer...;And+I'm+a+leetcoder)](https://git.io/typing-svg)
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
   
   🌱 I’m currently learning Full Stack Developement.
   <br>
