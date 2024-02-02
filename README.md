@@ -5,7 +5,7 @@
   />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+learner...;And+I+love+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+It's+Priyanshu!;I'm+a+programmer...;And+I+love+coding)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
