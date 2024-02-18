@@ -1,7 +1,7 @@
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=astrodeveloper1010&label=Profile%20views&color=0e75b6&style=flat"
-    alt="astrodeveloper1010"
+    src="https://komarev.com/ghpvc/?username=pandit27&label=Profile%20views&color=0e75b6&style=flat"
+    alt="pandit27"
   />
 </p>
 
@@ -38,9 +38,9 @@ const AstroDeveloper = {
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=astrodeveloper1010&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=astrodeveloper1010&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=astrodeveloper1010&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pandit27&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pandit27&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=astrodevelpandit27oper1010&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### Truth of Life : Answered by Javascript <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height="32px">
@@ -57,4 +57,4 @@ console.log(['💙', '💵'].sort())
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- [![](https://visitcount.itsvg.in/api?id=astrodeveloper1010&icon=2&color=0)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=pandit27&icon=2&color=0)](https://visitcount.itsvg.in) -->
