@@ -43,15 +43,6 @@ const pandit27 = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandit27&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### Truth of Life : Answered by Javascript <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height="32px">
-
-```javascript
-// Which is more important love or money?
-
-console.log(['💙', '💵'].sort())
->>> ['💵', '💙']
-```
-
 ## special thanks to GitHub
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
 
